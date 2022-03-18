@@ -53,6 +53,8 @@ Before start installation ruby, you must:
     rvm install 2.7.3 --with-openssl-dir=$(brew --prefix)/opt/openssl@1.1
     ```  
 3. Post installation check - `rvm list`
+
+    ![Alt text](https://github.com/Na-Sathish/ruby-install-M1-Mac/blob/master/ruby-version-image.png "Ruby Version & Processor Check")
 4. Go to application directory and run `bundle install`
 
 ## Issues occur while bundle install
